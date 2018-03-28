@@ -1,4 +1,4 @@
 # Combined PCB Boards for the EAX and V40 test heads.
-## Date: 9/8/17
+## Date: 3.28.2018
 ## Software: Altium Designer 18
-## Revision: A0
+## Revision: C1
